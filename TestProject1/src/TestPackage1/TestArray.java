@@ -8,6 +8,7 @@ public class TestArray {
 		
 		for(int j = 0;j<i.length;j++){
 			System.out.println(i[j]);
+			System.out.println("test1");
 		}
 	}
 
